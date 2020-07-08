@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hexo</title>
   
-  
+  <subtitle>一个无聊的地方by多不会</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://duobuhui.gitee.io/"/>
@@ -10,7 +10,7 @@
   <id>http://duobuhui.gitee.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>DuoBuHui</name>
     
   </author>
   

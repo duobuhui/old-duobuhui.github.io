@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>你好，我是多不会</title>
+      <link href="/ni-hao-wo-shi-duo-bu-hui/"/>
+      <url>/ni-hao-wo-shi-duo-bu-hui/</url>
+      
+        <content type="html"><![CDATA[<p>你好，我是多不会。这是我的<a href="https://guobuhui.gitee.io" target="_blank" rel="noopener">个人博客</a>。我是一个在校高中生，你可以在B站<a href="space.bilibili.com">多不会</a>里找到我。也可以通过QQ与我联系<a href="tencent://AddContact/?fromId=50&fromSubId=1&subcmd=all&uin=1065637910">点击这里</a>。</p><h2 id="博客简介"><a href="#博客简介" class="headerlink" title="博客简介"></a>博客简介</h2><p>本博客是使用<a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>进行制作的。同时，这是一个采用 <code>Material Design</code> 和响应式设计的 Hexo 博客主题hexo-theme-matery，你可以在GitHub上找到。</p><h2 id="防止遗忘"><a href="#防止遗忘" class="headerlink" title="防止遗忘"></a>防止遗忘</h2><p>为防止以后在编写blog时忘记代码，特此备忘。</p><h3 id="创建新的网页"><a href="#创建新的网页" class="headerlink" title="创建新的网页"></a>创建新的网页</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">'title'</span></code></pre><h3 id="打包上传到gitee"><a href="#打包上传到gitee" class="headerlink" title="打包上传到gitee"></a>打包上传到gitee</h3><pre class=" language-bash"><code class="language-bash">$ hexo g -d</code></pre><h3 id="启动本地预览"><a href="#启动本地预览" class="headerlink" title="启动本地预览"></a>启动本地预览</h3><pre class=" language-bash"><code class="language-bash">$ hexo s</code></pre><p>本地预览地址localhost:4000</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 自我介绍 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/hello-world/"/>
       <url>/hello-world/</url>

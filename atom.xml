@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://duobuhui.gitee.io/"/>
-  <updated>2020-07-08T12:55:35.192Z</updated>
+  <updated>2020-07-09T02:36:54.867Z</updated>
   <id>http://duobuhui.gitee.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博客版本更新日志</title>
+    <link href="http://duobuhui.gitee.io/bo-ke-ban-ben-geng-xin-ri-zhi/"/>
+    <id>http://duobuhui.gitee.io/bo-ke-ban-ben-geng-xin-ri-zhi/</id>
+    <published>2020-07-09T02:22:50.000Z</published>
+    <updated>2020-07-09T02:36:54.867Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;博客版本更新日志&quot;&gt;&lt;a href=&quot;#博客版本更新日志&quot; class=&quot;headerlink&quot; title=&quot;博客版本更新日志&quot;&gt;&lt;/a&gt;博客版本更新日志&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;beta0.3 2020.7.9
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="update" scheme="http://duobuhui.gitee.io/tags/update/"/>
+    
+  </entry>
   
   <entry>
     <title>你好，我是多不会</title>

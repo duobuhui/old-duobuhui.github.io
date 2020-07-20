@@ -243,6 +243,19 @@
 </header>
 
     
+<script src="/libs/cryptojs/crypto-js.min.js"></script>
+<script>
+    (function() {
+        let pwd = '';
+        if (pwd && pwd.length > 0) {
+            if (pwd !== CryptoJS.SHA256(prompt('请输入访问本文章的密码')).toString(CryptoJS.enc.Hex)) {
+                alert('密码错误，将返回主页！');
+                location.href = '/';
+            }
+        }
+    })();
+</script>
+
 
 
 
@@ -454,7 +467,7 @@
                     </i>
                 </span>
                 <span class="reprint-info">
-                    <a href="http://duobuhui.gitee.io/bo-ke-ban-ben-geng-xin-ri-zhi/">http://duobuhui.gitee.io/bo-ke-ban-ben-geng-xin-ri-zhi/</a>
+                    <a href="http://duobuhui.github.com/bo-ke-ban-ben-geng-xin-ri-zhi/">http://duobuhui.github.com/bo-ke-ban-ben-geng-xin-ri-zhi/</a>
                 </span>
             </div>
             <div class="reprint__notice">
@@ -932,16 +945,15 @@
                     <div class="card-image">
                         
                         
-                        <img src="/medias/featureimages/7.jpg" class="responsive-img" alt="2020新高二暑假作业分享">
+                        <img src="/medias/featureimages/6.jpg" class="responsive-img" alt="关于538页空白打印稿的学术研究">
                         
-                        <span class="card-title">2020新高二暑假作业分享</span>
+                        <span class="card-title">关于538页空白打印稿的学术研究</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            感谢以下作业答案的提供者：hjl、zxn、茹池洋(网名)、空条承太郎respect(网名)、雷锋一枚作业答案仅供参考，查阅时请注意题号每天晚上20点更新点击以下链接跳转到作业分享页面（图大，加载需要时间）
-语数英合订本20年新高二语文(更新
+                            这是关于538页空白打印稿的学术研究，请不要泄露博文密码和博文内全部内容学术研究内容仅供参考，在进行学术研究时，请注意题号且进行部分更改每天晚上20点更新感谢以下作业答案的提供者：hjl、zxn、茹池洋(网名)、空条承太郎respect(网
                         
                     </div>
                     <div class="publish-info">
@@ -1246,7 +1258,7 @@ code[class*="language-"], pre[class*="language-"] { white-space: pre !important;
             <br>
             
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                class="white-color">793</span>&nbsp;字
+                class="white-color">850</span>&nbsp;字
             
             
             

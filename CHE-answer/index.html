@@ -243,6 +243,19 @@
 </header>
 
     
+<script src="/libs/cryptojs/crypto-js.min.js"></script>
+<script>
+    (function() {
+        let pwd = 'b111ff8a5569de06aa07e7251f24bab09ed6a4b79b8395ada38b0ac016a9f63e';
+        if (pwd && pwd.length > 0) {
+            if (pwd !== CryptoJS.SHA256(prompt('请输入访问本文章的密码')).toString(CryptoJS.enc.Hex)) {
+                alert('密码错误，将返回主页！');
+                location.href = '/';
+            }
+        }
+    })();
+</script>
+
 
 
 
@@ -389,7 +402,7 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
-                    101
+                    140
                 </div>
                 
 
@@ -401,7 +414,7 @@
         <hr class="clearfix">
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <p>注意图大，加载可能延迟。建议在WiFi下浏览<br>网页右下角有音乐播放器可供播放，内置的歌是我喜欢的歌w<br><code>作业答案仅供参考</code></p>
+                <p>注意图大，加载可能延迟。建议在WiFi下浏览<br>网页右下角有音乐播放器可供播放，内置的歌是我喜欢的歌w<br><code>请不要泄露博文密码和博文内全部内容</code><br><code>学术研究内容仅供参考，在进行学术研究时，请注意题号且进行部分更改</code></p>
 <h2 id="7-18更新-作业1-P50-55-作业2-P56-62"><a href="#7-18更新-作业1-P50-55-作业2-P56-62" class="headerlink" title="7.18更新(作业1-P50-55;作业2-P56-62)"></a>7.18更新(作业1-P50-55;作业2-P56-62)</h2><h3 id="作业2P56-62"><a href="#作业2P56-62" class="headerlink" title="作业2P56-62"></a>作业2P56-62</h3><p>选择(1-28):<br>ABDCA DDCBC CAABB BDDCC CCDDA BAD<br>大题(29-31):<br><img src="http://pic.027cgb.com/631266/CHE-2-1.jpg" alt="CHE-2-1"><br><img src="http://pic.027cgb.com/631266/CHE-2-2.jpg" alt="CHE-2-2"><br><img src="http://pic.027cgb.com/631266/CHE-2-3.jpg" alt="CHE-2-3"></p>
 <h3 id="作业1P50-55"><a href="#作业1P50-55" class="headerlink" title="作业1P50-55"></a>作业1P50-55</h3><p>选择(1-29):<br>CCBCA CCBBB DDDBB DADDB DCABD BBBC<br>大题(30-32):<br><img src="http://pic.027cgb.com/631266/CHE-1-1.jpg" alt="CHE-1-1"><br><img src="http://pic.027cgb.com/631266/CHE-1-2.jpg" alt="CHE-1-2"><br><img src="http://pic.027cgb.com/631266/CHE-1-3.jpg" alt="CHE-1-3"></p>
 
@@ -429,7 +442,7 @@
                     </i>
                 </span>
                 <span class="reprint-info">
-                    <a href="http://duobuhui.gitee.io/CHE-answer/index.html">http://duobuhui.gitee.io/CHE-answer/index.html</a>
+                    <a href="http://duobuhui.github.com/CHE-answer/index.html">http://duobuhui.github.com/CHE-answer/index.html</a>
                 </span>
             </div>
             <div class="reprint__notice">
@@ -912,8 +925,8 @@
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            注意图大，加载可能延迟。建议在WiFi下浏览网页右下角有音乐播放器可供播放，内置的歌是我喜欢的歌w作业答案仅供参考
-7.18更新(作业1-P50-55;作业2-P56-62)作业2P56-62选择(1-28):ABDCA DDCBC CAA
+                            注意图大，加载可能延迟。建议在WiFi下浏览网页右下角有音乐播放器可供播放，内置的歌是我喜欢的歌w请不要泄露博文密码和博文内全部内容学术研究内容仅供参考，在进行学术研究时，请注意题号且进行部分更改
+7.18更新(作业1-P50-55;作业2
                         
                     </div>
                     <div class="publish-info">
@@ -951,8 +964,8 @@
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            注意图大，加载可能延迟。建议在WiFi下浏览网页右下角有音乐播放器可供播放，内置的歌是我喜欢的歌w作业答案仅供参考
-7.18更新(作业1-P50-55;作业2-P56-62)作业2P56-62选择(1-28):ABDCA DDCBC CAA
+                            注意图大，加载可能延迟。建议在WiFi下浏览网页右下角有音乐播放器可供播放，内置的歌是我喜欢的歌w请不要泄露博文密码和博文内全部内容学术研究内容仅供参考，在进行学术研究时，请注意题号且进行部分更改
+7.18更新(作业1-P50-55;作业2
                         
                     </div>
                     <div class="publish-info">
@@ -1204,7 +1217,7 @@ code[class*="language-"], pre[class*="language-"] { white-space: pre !important;
             <br>
             
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                class="white-color">793</span>&nbsp;字
+                class="white-color">850</span>&nbsp;字
             
             
             

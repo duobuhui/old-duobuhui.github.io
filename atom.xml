@@ -5,9 +5,9 @@
   <subtitle>一个无聊的地方by多不会</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://duobuhui.github.com/"/>
+  <link href="http://duobuhui.github.io/"/>
   <updated>2020-07-20T02:59:43.406Z</updated>
-  <id>http://duobuhui.github.com/</id>
+  <id>http://duobuhui.github.io/</id>
   
   <author>
     <name>DuoBuHui</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>关于538页空白打印稿的学术研究</title>
-    <link href="http://duobuhui.github.com/answer1/"/>
-    <id>http://duobuhui.github.com/answer1/</id>
+    <link href="http://duobuhui.github.io/answer1/"/>
+    <id>http://duobuhui.github.io/answer1/</id>
     <published>2020-07-17T08:54:29.000Z</published>
     <updated>2020-07-20T02:59:43.406Z</updated>
     
@@ -37,14 +37,14 @@
     
     
     
-      <category term="答案" scheme="http://duobuhui.github.com/tags/%E7%AD%94%E6%A1%88/"/>
+      <category term="答案" scheme="http://duobuhui.github.io/tags/%E7%AD%94%E6%A1%88/"/>
     
   </entry>
   
   <entry>
     <title>博客版本更新日志</title>
-    <link href="http://duobuhui.github.com/bo-ke-ban-ben-geng-xin-ri-zhi/"/>
-    <id>http://duobuhui.github.com/bo-ke-ban-ben-geng-xin-ri-zhi/</id>
+    <link href="http://duobuhui.github.io/bo-ke-ban-ben-geng-xin-ri-zhi/"/>
+    <id>http://duobuhui.github.io/bo-ke-ban-ben-geng-xin-ri-zhi/</id>
     <published>2020-07-09T02:22:50.000Z</published>
     <updated>2020-07-09T06:59:14.499Z</updated>
     
@@ -62,14 +62,14 @@
     
     
     
-      <category term="update" scheme="http://duobuhui.github.com/tags/update/"/>
+      <category term="update" scheme="http://duobuhui.github.io/tags/update/"/>
     
   </entry>
   
   <entry>
     <title>你好，我是多不会</title>
-    <link href="http://duobuhui.github.com/ni-hao-wo-shi-duo-bu-hui/"/>
-    <id>http://duobuhui.github.com/ni-hao-wo-shi-duo-bu-hui/</id>
+    <link href="http://duobuhui.github.io/ni-hao-wo-shi-duo-bu-hui/"/>
+    <id>http://duobuhui.github.io/ni-hao-wo-shi-duo-bu-hui/</id>
     <published>2020-07-08T11:56:27.000Z</published>
     <updated>2020-07-08T12:55:35.192Z</updated>
     
@@ -87,14 +87,14 @@
     
     
     
-      <category term="自我介绍" scheme="http://duobuhui.github.com/tags/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/"/>
+      <category term="自我介绍" scheme="http://duobuhui.github.io/tags/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://duobuhui.github.com/hello-world/"/>
-    <id>http://duobuhui.github.com/hello-world/</id>
+    <link href="http://duobuhui.github.io/hello-world/"/>
+    <id>http://duobuhui.github.io/hello-world/</id>
     <published>2020-07-07T13:39:15.216Z</published>
     <updated>2020-07-07T13:39:15.217Z</updated>
     

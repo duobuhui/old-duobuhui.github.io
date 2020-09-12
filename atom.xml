@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://duobuhui.github.io/"/>
-  <updated>2020-07-31T14:22:10.304Z</updated>
+  <updated>2020-09-12T14:00:14.271Z</updated>
   <id>http://duobuhui.github.io/</id>
   
   <author>
@@ -15,6 +15,55 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>三次元的烦心事</title>
+    <link href="http://duobuhui.github.io/diarypublic/"/>
+    <id>http://duobuhui.github.io/diarypublic/</id>
+    <published>2020-09-12T13:32:26.000Z</published>
+    <updated>2020-09-12T14:00:14.271Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;突然就有了记日记的习惯…&lt;br&gt;住校周弧，每周六晚上更新&lt;/p&gt;
+&lt;h2 id=&quot;2020年&quot;&gt;&lt;a href=&quot;#2020年&quot; class=&quot;headerlink&quot; title=&quot;2020年&quot;&gt;&lt;/a&gt;2020年&lt;/h2&gt;&lt;h3 id=&quot;2020年9月&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="日记" scheme="http://duobuhui.github.io/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://duobuhui.github.io/hello-world/"/>
+    <id>http://duobuhui.github.io/hello-world/</id>
+    <published>2020-08-05T09:15:54.284Z</published>
+    <updated>2020-09-05T09:15:42.312Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>eatisimportant</title>
@@ -36,7 +85,7 @@
     <link href="http://duobuhui.github.io/furenhighschool/"/>
     <id>http://duobuhui.github.io/furenhighschool/</id>
     <published>2020-07-22T07:31:49.000Z</published>
-    <updated>2020-07-27T10:51:42.017Z</updated>
+    <updated>2020-08-31T08:00:33.771Z</updated>
     
     <summary type="html">
     
@@ -44,7 +93,7 @@
       
         
         
-          &lt;p&gt;祝贺你们通过层层选拔，来到江苏省&lt;code&gt;首批四星高中&lt;/code&gt;-无锡市辅仁高级中学。&lt;br&gt;下面，由学长给你们带来介绍，希望你们能尽快熟悉辅仁的环境，在这里成长。有问题可以在文章下方的留言板中询问 或者进入辅仁高中新生校群1128153727
+          &lt;p&gt;2020级高一分班查询:&lt;a
         
       
     
@@ -57,11 +106,11 @@
   </entry>
   
   <entry>
-    <title>关于538页空白打印稿的学术研究</title>
-    <link href="http://duobuhui.github.io/answer1/"/>
-    <id>http://duobuhui.github.io/answer1/</id>
-    <published>2020-07-17T08:54:29.000Z</published>
-    <updated>2020-08-05T09:22:56.324Z</updated>
+    <title>红楼梦</title>
+    <link href="http://duobuhui.github.io/dreamoftheredchamber/"/>
+    <id>http://duobuhui.github.io/dreamoftheredchamber/</id>
+    <published>2020-07-18T08:54:29.000Z</published>
+    <updated>2020-07-18T08:30:25.072Z</updated>
     
     <summary type="html">
     
@@ -69,7 +118,30 @@
       
         
         
-          &lt;p&gt;这是关于538页空白打印稿的学术研究，&lt;code&gt;请不要泄露博文密码和博文内全部内容&lt;/code&gt;&lt;br&gt;&lt;code&gt;学术研究内容仅供参考，在进行学术研究时，请注意题号且进行部分更改&lt;/code&gt;&lt;br&gt;每天晚上20点更新&lt;br&gt;感谢以下作业答案的提供者：&lt;br&gt;雷锋五枚&lt;
+          &lt;h1 id=&quot;红楼梦概括-更新至第5回&quot;&gt;&lt;a href=&quot;#红楼梦概括-更新至第5回&quot; class=&quot;headerlink&quot; title=&quot;红楼梦概括(更新至第5回)&quot;&gt;&lt;/a&gt;红楼梦概括(更新至第5回)&lt;/h1&gt;&lt;p&gt;文章来自&lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>关于538页空白打印稿的学术研究</title>
+    <link href="http://duobuhui.github.io/answer1/"/>
+    <id>http://duobuhui.github.io/answer1/</id>
+    <published>2020-07-17T08:54:29.000Z</published>
+    <updated>2020-08-26T07:06:22.122Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;这是关于538页空白打印稿的学术研究，&lt;code&gt;请不要泄露博文密码和博文内全部内容&lt;/code&gt;&lt;br&gt;&lt;code&gt;学术研究内容仅供参考，在进行学术研究时，请注意题号且进行部分更改&lt;/code&gt;&lt;br&gt;每天晚上20点更新&lt;br&gt;感谢以下作业答案的提供者：&lt;br&gt;雷锋⑦枚&lt;
         
       
     
@@ -86,7 +158,7 @@
     <link href="http://duobuhui.github.io/bo-ke-ban-ben-geng-xin-ri-zhi/"/>
     <id>http://duobuhui.github.io/bo-ke-ban-ben-geng-xin-ri-zhi/</id>
     <published>2020-07-09T02:22:50.000Z</published>
-    <updated>2020-07-24T02:33:24.109Z</updated>
+    <updated>2020-08-13T04:21:35.466Z</updated>
     
     <summary type="html">
     
@@ -94,7 +166,7 @@
       
         
         
-          &lt;h3 id=&quot;博客版本更新日志&quot;&gt;&lt;a href=&quot;#博客版本更新日志&quot; class=&quot;headerlink&quot;
+          &lt;h3 id=&quot;博客版本更新日志&quot;&gt;&lt;a href=&quot;#博客版本更新日志&quot; class=&quot;headerlink&quot; title=&quot;博客版本更新日志&quot;&gt;&lt;/a&gt;博客版本更新日志&lt;/h3&gt;&lt;p&gt;1.0 2020.8.13
         
       
     
@@ -128,29 +200,6 @@
     
     
       <category term="自我介绍" scheme="http://duobuhui.github.io/tags/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://duobuhui.github.io/hello-world/"/>
-    <id>http://duobuhui.github.io/hello-world/</id>
-    <published>2020-07-07T13:39:15.216Z</published>
-    <updated>2020-07-07T13:39:15.217Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
-    
-    </summary>
-    
-    
     
   </entry>
   
